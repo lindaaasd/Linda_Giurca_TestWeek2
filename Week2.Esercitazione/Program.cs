@@ -3,6 +3,15 @@ using System.Collections;
 
 namespace Week2.Esercitazione
 {
+    //ESERCIZIO 1:
+    //string nome = “Mario”; 	ASSEGNAZIONE
+    //int i; DICHIARAZIONE
+    ////isInt = true; INIZZIALIZAZIONE
+    //ES 2: B. RIFERIMENTO
+    //ES 3: C.
+    //ES 4: C.
+
+
     class Program
     {
         static void Main(string[] args)
@@ -34,12 +43,13 @@ namespace Week2.Esercitazione
                         GestioneTasks.FiltraTaskPriorita(listaTasks);
                         break;
                     case 5:
-                        //carica l'elenco dei task su un file txt
-                        TasksIO.StampaTaskSuFile(listaTasks);
+                        //scrivi l'elenco dei task su un file txt
+                        TasksIO.ScriviTaskSuFile(listaTasks);
                         break;
                     case 6:
-                        //stampa l'elenco dei task da un file txt
-                        TasksIO.CaricaTasksDaFile();
+                        //carica l'elenco dei task da un file txt
+                        TasksIO.StampaTasksDaFile();
+                        GestioneTasks.StampaTasks(listaTasks)
                         break;
                     default:
                         continua = false;

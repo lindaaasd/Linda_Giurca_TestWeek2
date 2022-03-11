@@ -9,8 +9,7 @@ namespace Week2.Esercitazione.Entities
 
 		public override string ToString()
 		{
-			return $"Descrizione: {Description} - \n"+
-				   $"Priorità: {Priority} - Data di scadenza: {ExpiryDate} ";
+			return $"{Description}-{Priority}-{ExpiryDate} ";
 		}
 
 	}

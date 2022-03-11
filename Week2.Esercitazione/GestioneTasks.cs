@@ -13,9 +13,9 @@ namespace Week2.Esercitazione
             Console.WriteLine("Inserisci la descrizione del task");
             task.Description = Console.ReadLine();
 
-            Console.WriteLine("Inserisci il deadline del task ( format dd/MM/yyyy )");
-			DateTime.TryParse(Console.ReadLine(), out DateTime expiryDate);
-			task.ExpiryDate = expiryDate;
+            Console.WriteLine("Inserisci il deadline del task ( format MM/dd/yyyy )");
+			DateTime.TryParse(Console.ReadLine(), out var expiryDate);
+            task.ExpiryDate = expiryDate;
 
 			Console.WriteLine("Inserisci la priorità del task // basso; medio; alto //");
 			task.Priority = Console.ReadLine();
