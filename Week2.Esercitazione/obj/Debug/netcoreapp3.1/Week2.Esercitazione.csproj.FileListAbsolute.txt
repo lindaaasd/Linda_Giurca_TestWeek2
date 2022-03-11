@@ -1,0 +1,14 @@
+/Users/lindaaa/Desktop/Week2.Esercitazione/Week2.Esercitazione/bin/Debug/netcoreapp3.1/Week2.Esercitazione
+/Users/lindaaa/Desktop/Week2.Esercitazione/Week2.Esercitazione/bin/Debug/netcoreapp3.1/Week2.Esercitazione.deps.json
+/Users/lindaaa/Desktop/Week2.Esercitazione/Week2.Esercitazione/bin/Debug/netcoreapp3.1/Week2.Esercitazione.runtimeconfig.json
+/Users/lindaaa/Desktop/Week2.Esercitazione/Week2.Esercitazione/bin/Debug/netcoreapp3.1/Week2.Esercitazione.runtimeconfig.dev.json
+/Users/lindaaa/Desktop/Week2.Esercitazione/Week2.Esercitazione/bin/Debug/netcoreapp3.1/Week2.Esercitazione.dll
+/Users/lindaaa/Desktop/Week2.Esercitazione/Week2.Esercitazione/bin/Debug/netcoreapp3.1/Week2.Esercitazione.pdb
+/Users/lindaaa/Desktop/Week2.Esercitazione/Week2.Esercitazione/obj/Debug/netcoreapp3.1/Week2.Esercitazione.csproj.AssemblyReference.cache
+/Users/lindaaa/Desktop/Week2.Esercitazione/Week2.Esercitazione/obj/Debug/netcoreapp3.1/Week2.Esercitazione.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lindaaa/Desktop/Week2.Esercitazione/Week2.Esercitazione/obj/Debug/netcoreapp3.1/Week2.Esercitazione.AssemblyInfoInputs.cache
+/Users/lindaaa/Desktop/Week2.Esercitazione/Week2.Esercitazione/obj/Debug/netcoreapp3.1/Week2.Esercitazione.AssemblyInfo.cs
+/Users/lindaaa/Desktop/Week2.Esercitazione/Week2.Esercitazione/obj/Debug/netcoreapp3.1/Week2.Esercitazione.csproj.CoreCompileInputs.cache
+/Users/lindaaa/Desktop/Week2.Esercitazione/Week2.Esercitazione/obj/Debug/netcoreapp3.1/Week2.Esercitazione.dll
+/Users/lindaaa/Desktop/Week2.Esercitazione/Week2.Esercitazione/obj/Debug/netcoreapp3.1/Week2.Esercitazione.pdb
+/Users/lindaaa/Desktop/Week2.Esercitazione/Week2.Esercitazione/obj/Debug/netcoreapp3.1/Week2.Esercitazione.genruntimeconfig.cache
