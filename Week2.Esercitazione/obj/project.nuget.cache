@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SlkslbAuIublb+5CSeJ+FEzsnd16F6ToD+zY36ISr8sNzLAsuapsPpJKcmMK8gjjrSlcEqPY4NxBhORPLzxuHQ==",
+  "success": true,
+  "projectFilePath": "/Users/lindaaa/Desktop/Week2.Esercitazione/Week2.Esercitazione/Week2.Esercitazione.csproj",
+  "expectedPackageFiles": [
+    "/Users/lindaaa/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/lindaaa/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.22/microsoft.netcore.app.host.osx-x64.3.1.22.nupkg.sha512",
+    "/Users/lindaaa/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
